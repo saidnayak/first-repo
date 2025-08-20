@@ -1,2 +1,11 @@
-# first-repo
-My first GitHub repository to learn commits and version control
+# first-repo  
+
+This is my **first GitHub repository** 🎉  
+
+## What I’m learning  
+- Git commits  
+- Version control basics  
+- How to use GitHub  
+
+## Author  
+👤 saidnayak  
